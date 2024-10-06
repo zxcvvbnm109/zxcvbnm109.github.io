@@ -1,6 +1,13 @@
 HI
 
 
-[[index|TryHackMe]]
+[[zxcvbnm109.github.io/TryHackMe/index|TryHackMe]]
 
 
+```
+Question: ...
+
+Answer: ...
+
+Explanation: ...
+```
